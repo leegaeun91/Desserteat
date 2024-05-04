@@ -1,6 +1,5 @@
 # Desserteat
 SK-Lookie Desserteat project
-# Handmade_Pet_Food blog
 
 * **목표**
     * 수제 펫푸드 기록 및 소통 블로그
@@ -13,8 +12,8 @@ SK-Lookie Desserteat project
     3. 타 유저들과 댓글 및 대댓글 기능을 통해서 활발하게 소통해보세요.
 
 * **서비스 URL 정보**
-    * blog github repo: https://github.com/najasinis/Handmade_Pet_Food_Blog
-    * notion(for planning): https://www.notion.so/2-0-138c734b18ae494a8fa668773a9f1c8e
+    * blog github repo: [https://github.com/najasinis/Handmade_Pet_Food_Blog](https://github.com/leegaeun91/Desserteat/blob/b0cf4a35cb2bf60140e43163a487fb89bfb4fd82/README.md)
+    * notion(for planning): [https://www.notion.so/2-0-138c734b18ae494a8fa668773a9f1c8e](https://www.notion.so/2024-05-06-950aad0f450940a38733bdf0d9209d2c?pvs=4)
 
 * **기존 타 블로그들과의 비교**
     * 필러링된 로그인 유저들만 사용 가능
