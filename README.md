@@ -8,8 +8,8 @@ SK-Lookie Desserteat project
 
 * **사용방법**
     1. 자신의 아이디-비밀번호를 입력하여, 로그인하세요.
-    2. 자신이 제작하거나 급여한 수제 펫푸드 사진들 및 후기들을 기록하세요.
-    3. 타 유저들과 댓글 및 대댓글 기능을 통해서 활발하게 소통해보세요.
+    2. 자신의 체질과 선호에 맞는 성분을 선택하세요.
+    3. 자신에게 맞춤형 디저트 큐레이팅 서비스를 누리세요. 
 
 * **서비스 URL 정보**
     * blog github repo: https://github.com/leegaeun91/Desserteat/blob/b0cf4a35cb2bf60140e43163a487fb89bfb4fd82/README.md
